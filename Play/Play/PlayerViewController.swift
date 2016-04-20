@@ -161,7 +161,7 @@ class PlayerViewController: UIViewController {
             
             if (playPauseButton.selected) {
                 player.play()
-            }
+            } 
         }
     }
     
